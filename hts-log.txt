@@ -1,0 +1,412 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Jul 2025 15:29:15 at https://fujisilvertech.com/ https://fujisilvertech.com/about-us/ https://fujisilvertech.com/precast-box-culverts/ https://fujisilvertech.com/u-shape-drains/ https://fujisilvertech.com/retaining-wall/ https://fujisilvertech.com/project/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fujisilvertech.com/ https://fujisilvertech.com/about-us/ https://fujisilvertech.com/precast-box-culverts/ https://fujisilvertech.com/u-shape-drains/ https://fujisilvertech.com/retaining-wall/ https://fujisilvertech.com/project/ -O1 "C:\My Web Sites\InfraNew" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:31:45	Error: 	"Not Found" (404) at link https://fujisilvertech.com/Firefox/ (from https://fujisilvertech.com/)
+15:32:22	Error: 	"Forbidden" (403) at link https://fujisilvertech.com/xmlrpc.php?rsd (from https://fujisilvertech.com/)
+15:32:22	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://fujisilvertech.com/)
+15:33:59	Error: 	"Not Found" (404) at link https://fujisilvertech.com/l3UWoB.tif (from https://fujisilvertech.com/)
+15:34:10	Error: 	"Bad Request" (400) at link https://fujisilvertech.com/wp-admin/admin-ajax.php (from https://fujisilvertech.com/)
+15:34:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/about-us/Firefox/ (from https://fujisilvertech.com/about-us/)
+15:34:10	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=9
+15:34:10	Warning: 	File has moved from https://fujisilvertech.com/?p=9 to https://fujisilvertech.com/about-us/
+15:34:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/precast-box-culverts/Firefox/ (from https://fujisilvertech.com/precast-box-culverts/)
+15:34:10	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=11
+15:34:10	Warning: 	File has moved from https://fujisilvertech.com/?p=11 to https://fujisilvertech.com/precast-box-culverts/
+15:34:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/u-shape-drains/Firefox/ (from https://fujisilvertech.com/u-shape-drains/)
+15:34:10	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=119
+15:34:10	Warning: 	File has moved from https://fujisilvertech.com/?p=119 to https://fujisilvertech.com/u-shape-drains/
+15:34:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/retaining-wall/Firefox/ (from https://fujisilvertech.com/retaining-wall/)
+15:34:10	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=333
+15:34:10	Warning: 	File has moved from https://fujisilvertech.com/?p=333 to https://fujisilvertech.com/retaining-wall/
+15:34:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/Firefox/ (from https://fujisilvertech.com/project/)
+15:34:10	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=71
+15:34:10	Warning: 	File has moved from https://fujisilvertech.com/?p=71 to https://fujisilvertech.com/project/
+15:35:51	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/iit-gandhinagar/Firefox/ (from https://fujisilvertech.com/project/iit-gandhinagar/)
+15:35:51	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=247
+15:35:51	Warning: 	File has moved from https://fujisilvertech.com/?p=247 to https://fujisilvertech.com/project/iit-gandhinagar/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/wp-content/themes/fujisilvertech/assets/css/bg-img-1.png (from https://fujisilvertech.com/wp-content/cache/min/1/wp-content/themes/fujisilvertech/assets/css/custom.css?ver=1751036063)
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/cable-and-power/Firefox/ (from https://fujisilvertech.com/cable-and-power/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=43
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=43 to https://fujisilvertech.com/cable-and-power/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/industrial/Firefox/ (from https://fujisilvertech.com/industrial/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=57
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=57 to https://fujisilvertech.com/industrial/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/railways/Firefox/ (from https://fujisilvertech.com/railways/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=24
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=24 to https://fujisilvertech.com/railways/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/roads-and-bridges/Firefox/ (from https://fujisilvertech.com/roads-and-bridges/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=31
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=31 to https://fujisilvertech.com/roads-and-bridges/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/water-and-sewage/Firefox/ (from https://fujisilvertech.com/water-and-sewage/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=15
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=15 to https://fujisilvertech.com/water-and-sewage/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/accreditations/Firefox/ (from https://fujisilvertech.com/accreditations/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=788
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=788 to https://fujisilvertech.com/accreditations/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/clients/Firefox/ (from https://fujisilvertech.com/clients/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=848
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=848 to https://fujisilvertech.com/clients/
+15:35:52	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-studies/Firefox/ (from https://fujisilvertech.com/case-studies/)
+15:35:52	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=40
+15:35:52	Warning: 	File has moved from https://fujisilvertech.com/?p=40 to https://fujisilvertech.com/case-studies/
+15:36:43	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/Firefox/ (from https://fujisilvertech.com/blogs/)
+15:36:43	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=724
+15:36:43	Warning: 	File has moved from https://fujisilvertech.com/?p=724 to https://fujisilvertech.com/blogs/
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2025/07/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2025/07/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2025/06/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2025/06/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2025/05/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2025/05/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2025/03/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2025/03/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2025/02/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2025/02/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2025/01/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2025/01/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/12/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/12/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/11/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/11/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/09/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/09/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/06/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/06/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/05/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/05/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/04/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/04/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/03/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/03/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/02/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/02/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2024/01/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2024/01/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2023/11/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2023/11/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2023/10/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2023/10/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2023/09/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2023/09/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2023/08/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2023/08/?post_type=blog to https://fujisilvertech.com
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/2023/07/?post_type=blog
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/2023/07/?post_type=blog to https://fujisilvertech.com
+15:38:44	Error: 	"Not Found" (404) at link https://fujisilvertech.com/careers/Firefox/ (from https://fujisilvertech.com/careers/)
+15:38:44	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=867
+15:38:44	Warning: 	File has moved from https://fujisilvertech.com/?p=867 to https://fujisilvertech.com/careers/
+15:39:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/contact/Firefox/ (from https://fujisilvertech.com/contact/)
+15:39:10	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=754
+15:39:10	Warning: 	File has moved from https://fujisilvertech.com/?p=754 to https://fujisilvertech.com/contact/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/privacy-policy/Firefox/ (from https://fujisilvertech.com/privacy-policy/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=855
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=855 to https://fujisilvertech.com/privacy-policy/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/terms-condition/Firefox/ (from https://fujisilvertech.com/terms-condition/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=854
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=854 to https://fujisilvertech.com/terms-condition/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/the-narendra-modi-stadium/Firefox/ (from https://fujisilvertech.com/project/the-narendra-modi-stadium/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=179
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=179 to https://fujisilvertech.com/project/the-narendra-modi-stadium/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/the-central-vista/Firefox/ (from https://fujisilvertech.com/project/the-central-vista/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=245
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=245 to https://fujisilvertech.com/project/the-central-vista/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/dholera-sir/Firefox/ (from https://fujisilvertech.com/project/dholera-sir/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=246
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=246 to https://fujisilvertech.com/project/dholera-sir/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/runwal-my-city/Firefox/ (from https://fujisilvertech.com/project/runwal-my-city/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=248
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=248 to https://fujisilvertech.com/project/runwal-my-city/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/the-mumbai-ahmedabad-expressway/Firefox/ (from https://fujisilvertech.com/project/the-mumbai-ahmedabad-expressway/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=250
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=250 to https://fujisilvertech.com/project/the-mumbai-ahmedabad-expressway/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/jagannath-puri/Firefox/ (from https://fujisilvertech.com/project/jagannath-puri/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=251
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=251 to https://fujisilvertech.com/project/jagannath-puri/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/somnath-temple/Firefox/ (from https://fujisilvertech.com/project/somnath-temple/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=252
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=252 to https://fujisilvertech.com/project/somnath-temple/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/the-india-bridge-cpwd/Firefox/ (from https://fujisilvertech.com/project/the-india-bridge-cpwd/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=253
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=253 to https://fujisilvertech.com/project/the-india-bridge-cpwd/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/100-mld-sea-water-reverse-osmosis-swro-desalination-plant/Firefox/ (from https://fujisilvertech.com/project/100-mld-sea-water-reverse-osmosis-swro-desalination-plant/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=254
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=254 to https://fujisilvertech.com/project/100-mld-sea-water-reverse-osmosis-swro-desalination-plant/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/colt-data-centre/Firefox/ (from https://fujisilvertech.com/project/colt-data-centre/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=255
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=255 to https://fujisilvertech.com/project/colt-data-centre/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/the-zydus-pharma-sez/Firefox/ (from https://fujisilvertech.com/project/the-zydus-pharma-sez/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=256
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=256 to https://fujisilvertech.com/project/the-zydus-pharma-sez/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/gujarat-alkalies-chemicals-ltd/Firefox/ (from https://fujisilvertech.com/project/gujarat-alkalies-chemicals-ltd/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=257
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=257 to https://fujisilvertech.com/project/gujarat-alkalies-chemicals-ltd/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/happy-street/Firefox/ (from https://fujisilvertech.com/project/happy-street/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=258
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=258 to https://fujisilvertech.com/project/happy-street/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/the-western-dfcc-ctp-13/Firefox/ (from https://fujisilvertech.com/project/the-western-dfcc-ctp-13/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=260
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=260 to https://fujisilvertech.com/project/the-western-dfcc-ctp-13/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/the-western-dfcc-ctp-3r/Firefox/ (from https://fujisilvertech.com/project/the-western-dfcc-ctp-3r/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=259
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=259 to https://fujisilvertech.com/project/the-western-dfcc-ctp-3r/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/iocl-pump/Firefox/ (from https://fujisilvertech.com/project/iocl-pump/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=261
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=261 to https://fujisilvertech.com/project/iocl-pump/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/project/bandodkar-cricket-stadium/Firefox/ (from https://fujisilvertech.com/project/bandodkar-cricket-stadium/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=262
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=262 to https://fujisilvertech.com/project/bandodkar-cricket-stadium/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study/the-narendra-modi-stadium/Firefox/ (from https://fujisilvertech.com/case-study/the-narendra-modi-stadium/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=105
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=105 to https://fujisilvertech.com/case-study/the-narendra-modi-stadium/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study/the-dholera-special-investment-region/Firefox/ (from https://fujisilvertech.com/case-study/the-dholera-special-investment-region/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=227
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=227 to https://fujisilvertech.com/case-study/the-dholera-special-investment-region/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/dholera/i (from https://fujisilvertech.com/case-study-place/dholera/)
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/dholera/Firefox/ (from https://fujisilvertech.com/case-study-place/dholera/)
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study/the-central-vista/Firefox/ (from https://fujisilvertech.com/case-study/the-central-vista/)
+15:39:14	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=225
+15:39:14	Warning: 	File has moved from https://fujisilvertech.com/?p=225 to https://fujisilvertech.com/case-study/the-central-vista/
+15:39:14	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/new-delhi/i (from https://fujisilvertech.com/case-study-place/new-delhi/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/new-delhi/Firefox/ (from https://fujisilvertech.com/case-study-place/new-delhi/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study/the-india-bridge/Firefox/ (from https://fujisilvertech.com/case-study/the-india-bridge/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=228
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=228 to https://fujisilvertech.com/case-study/the-india-bridge/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/indo-pak-border/i (from https://fujisilvertech.com/case-study-place/indo-pak-border/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/indo-pak-border/Firefox/ (from https://fujisilvertech.com/case-study-place/indo-pak-border/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study/the-mumbai-ahmedabad-expressway/Firefox/ (from https://fujisilvertech.com/case-study/the-mumbai-ahmedabad-expressway/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=231
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=231 to https://fujisilvertech.com/case-study/the-mumbai-ahmedabad-expressway/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/gujarat/i (from https://fujisilvertech.com/case-study-place/gujarat/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/gujarat/Firefox/ (from https://fujisilvertech.com/case-study-place/gujarat/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study/the-western-dedicated-freight-corridor/Firefox/ (from https://fujisilvertech.com/case-study/the-western-dedicated-freight-corridor/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=232
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=232 to https://fujisilvertech.com/case-study/the-western-dedicated-freight-corridor/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/maharashtra/i (from https://fujisilvertech.com/case-study-place/maharashtra/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/maharashtra/Firefox/ (from https://fujisilvertech.com/case-study-place/maharashtra/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study/the-zydus-sez/Firefox/ (from https://fujisilvertech.com/case-study/the-zydus-sez/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=233
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=233 to https://fujisilvertech.com/case-study/the-zydus-sez/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/ahmedabad/i (from https://fujisilvertech.com/case-study-place/ahmedabad/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/case-study-place/ahmedabad/Firefox/ (from https://fujisilvertech.com/case-study-place/ahmedabad/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/revolutionizing-indian-railway-infrastructure-precast-breakthrough/Firefox/ (from https://fujisilvertech.com/blog/revolutionizing-indian-railway-infrastructure-precast-breakthrough/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=2183
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=2183 to https://fujisilvertech.com/blog/revolutionizing-indian-railway-infrastructure-precast-breakthrough/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/building-defences-precast-concrete-triumph/Firefox/ (from https://fujisilvertech.com/blog/building-defences-precast-concrete-triumph/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=2134
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=2134 to https://fujisilvertech.com/blog/building-defences-precast-concrete-triumph/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/epd-certified-t25-drains-box-culverts-sustainability/Firefox/ (from https://fujisilvertech.com/blog/epd-certified-t25-drains-box-culverts-sustainability/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=2083
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=2083 to https://fujisilvertech.com/blog/epd-certified-t25-drains-box-culverts-sustainability/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/fuji-silvertech-awards-excellence-infrastructure-2024/Firefox/ (from https://fujisilvertech.com/blog/fuji-silvertech-awards-excellence-infrastructure-2024/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=2059
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=2059 to https://fujisilvertech.com/blog/fuji-silvertech-awards-excellence-infrastructure-2024/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/revolutionizing-urban-infrastructure-the-kharicut-canal-redevelopment-project/Firefox/ (from https://fujisilvertech.com/blog/revolutionizing-urban-infrastructure-the-kharicut-canal-redevelopment-project/)
+15:39:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1612
+15:39:15	Warning: 	File has moved from https://fujisilvertech.com/?p=1612 to https://fujisilvertech.com/blog/revolutionizing-urban-infrastructure-the-kharicut-canal-redevelopment-project/
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/2/i (from https://fujisilvertech.com/blogs/page/2/)
+15:39:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/2/Firefox/ (from https://fujisilvertech.com/blogs/page/2/)
+15:39:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/3/i (from https://fujisilvertech.com/blogs/page/3/)
+15:39:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/3/Firefox/ (from https://fujisilvertech.com/blogs/page/3/)
+15:40:02	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/8/i (from https://fujisilvertech.com/blogs/page/8/)
+15:40:02	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/8/Firefox/ (from https://fujisilvertech.com/blogs/page/8/)
+15:40:16	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/i (from https://fujisilvertech.com/blog_categories/articles/)
+15:40:16	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/)
+15:40:25	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/box-culverts/i (from https://fujisilvertech.com/blog_tags/box-culverts/)
+15:40:25	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/box-culverts/Firefox/ (from https://fujisilvertech.com/blog_tags/box-culverts/)
+15:40:25	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/cable-and-power/i (from https://fujisilvertech.com/blog_tags/cable-and-power/)
+15:40:25	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/cable-and-power/Firefox/ (from https://fujisilvertech.com/blog_tags/cable-and-power/)
+15:40:29	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/complete-precast-concrete-solution/i (from https://fujisilvertech.com/blog_tags/complete-precast-concrete-solution/)
+15:40:29	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/complete-precast-concrete-solution/Firefox/ (from https://fujisilvertech.com/blog_tags/complete-precast-concrete-solution/)
+15:40:29	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/construction-industry/i (from https://fujisilvertech.com/blog_tags/construction-industry/)
+15:40:29	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/construction-industry/Firefox/ (from https://fujisilvertech.com/blog_tags/construction-industry/)
+15:40:33	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/drainage/i (from https://fujisilvertech.com/blog_tags/drainage/)
+15:40:33	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/drainage/Firefox/ (from https://fujisilvertech.com/blog_tags/drainage/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/fuji-silvertech/i (from https://fujisilvertech.com/blog_tags/fuji-silvertech/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/fuji-silvertech/Firefox/ (from https://fujisilvertech.com/blog_tags/fuji-silvertech/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/fuji-silvertech-team/i (from https://fujisilvertech.com/blog_tags/fuji-silvertech-team/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/fuji-silvertech-team/Firefox/ (from https://fujisilvertech.com/blog_tags/fuji-silvertech-team/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-box-culverts/i (from https://fujisilvertech.com/blog_tags/precast-box-culverts/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-box-culverts/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-box-culverts/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete/i (from https://fujisilvertech.com/blog_tags/precast-concrete/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-concrete/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete-box-culverts/i (from https://fujisilvertech.com/blog_tags/precast-concrete-box-culverts/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete-box-culverts/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-concrete-box-culverts/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete-solutions/i (from https://fujisilvertech.com/blog_tags/precast-concrete-solutions/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete-solutions/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-concrete-solutions/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete-stormwater-drains/i (from https://fujisilvertech.com/blog_tags/precast-concrete-stormwater-drains/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-concrete-stormwater-drains/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-concrete-stormwater-drains/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-construction/i (from https://fujisilvertech.com/blog_tags/precast-construction/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-construction/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-construction/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/i (from https://fujisilvertech.com/blog_tags/precast-solutions/)
+15:40:38	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-solutions/)
+15:40:44	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-technology/i (from https://fujisilvertech.com/blog_tags/precast-technology/)
+15:40:44	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-technology/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-technology/)
+15:40:44	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/railways/i (from https://fujisilvertech.com/blog_tags/railways/)
+15:40:44	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/railways/Firefox/ (from https://fujisilvertech.com/blog_tags/railways/)
+15:40:49	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/roads-and-bridges/i (from https://fujisilvertech.com/blog_tags/roads-and-bridges/)
+15:40:49	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/roads-and-bridges/Firefox/ (from https://fujisilvertech.com/blog_tags/roads-and-bridges/)
+15:40:54	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/storm-water-drainage-and-ducting/i (from https://fujisilvertech.com/blog_tags/storm-water-drainage-and-ducting/)
+15:40:54	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/storm-water-drainage-and-ducting/Firefox/ (from https://fujisilvertech.com/blog_tags/storm-water-drainage-and-ducting/)
+15:40:54	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/sustainability/i (from https://fujisilvertech.com/blog_tags/sustainability/)
+15:40:54	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/sustainability/Firefox/ (from https://fujisilvertech.com/blog_tags/sustainability/)
+15:41:05	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/sustainable/i (from https://fujisilvertech.com/blog_tags/sustainable/)
+15:41:05	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/sustainable/Firefox/ (from https://fujisilvertech.com/blog_tags/sustainable/)
+15:41:09	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/t-shaped-segmental-precast-retaining-walls/i (from https://fujisilvertech.com/blog_tags/t-shaped-segmental-precast-retaining-walls/)
+15:41:09	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/t-shaped-segmental-precast-retaining-walls/Firefox/ (from https://fujisilvertech.com/blog_tags/t-shaped-segmental-precast-retaining-walls/)
+15:41:09	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/t25-drains/i (from https://fujisilvertech.com/blog_tags/t25-drains/)
+15:41:09	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/t25-drains/Firefox/ (from https://fujisilvertech.com/blog_tags/t25-drains/)
+15:41:09	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/water-and-sewage/i (from https://fujisilvertech.com/blog_tags/water-and-sewage/)
+15:41:09	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/water-and-sewage/Firefox/ (from https://fujisilvertech.com/blog_tags/water-and-sewage/)
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/water-management-systems/i (from https://fujisilvertech.com/blog_tags/water-management-systems/)
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/water-management-systems/Firefox/ (from https://fujisilvertech.com/blog_tags/water-management-systems/)
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/career/draughtsman/Firefox/ (from https://fujisilvertech.com/career/draughtsman/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=973
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=973 to https://fujisilvertech.com/career/draughtsman/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/career/assistant-engineer-engineer/Firefox/ (from https://fujisilvertech.com/career/assistant-engineer-engineer/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=972
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=972 to https://fujisilvertech.com/career/assistant-engineer-engineer/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/career/asst-manager-deputy-manager/Firefox/ (from https://fujisilvertech.com/career/asst-manager-deputy-manager/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=960
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=960 to https://fujisilvertech.com/career/asst-manager-deputy-manager/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/career/sales-marketing/Firefox/ (from https://fujisilvertech.com/career/sales-marketing/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=958
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=958 to https://fujisilvertech.com/career/sales-marketing/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/career/senior-quality-engineer/Firefox/ (from https://fujisilvertech.com/career/senior-quality-engineer/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=952
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=952 to https://fujisilvertech.com/career/senior-quality-engineer/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/from-individual-strengths-to-collective-success/Firefox/ (from https://fujisilvertech.com/blog/from-individual-strengths-to-collective-success/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1579
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=1579 to https://fujisilvertech.com/blog/from-individual-strengths-to-collective-success/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/built-better-together-precast-sustainable-infrastructure/Firefox/ (from https://fujisilvertech.com/blog/built-better-together-precast-sustainable-infrastructure/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1539
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=1539 to https://fujisilvertech.com/blog/built-better-together-precast-sustainable-infrastructure/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/water-management-with-precast-concrete/Firefox/ (from https://fujisilvertech.com/blog/water-management-with-precast-concrete/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1472
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=1472 to https://fujisilvertech.com/blog/water-management-with-precast-concrete/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/leadership-vision-empowering-india-growth/Firefox/ (from https://fujisilvertech.com/blog/leadership-vision-empowering-india-growth/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1308
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=1308 to https://fujisilvertech.com/blog/leadership-vision-empowering-india-growth/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/precast-concrete-technology-dedicated-freight-corridor/Firefox/ (from https://fujisilvertech.com/blog/precast-concrete-technology-dedicated-freight-corridor/)
+15:41:13	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1196
+15:41:13	Warning: 	File has moved from https://fujisilvertech.com/?p=1196 to https://fujisilvertech.com/blog/precast-concrete-technology-dedicated-freight-corridor/
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/4/i (from https://fujisilvertech.com/blogs/page/4/)
+15:41:13	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/4/Firefox/ (from https://fujisilvertech.com/blogs/page/4/)
+15:41:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/health-safety-benefits-precast-construction/Firefox/ (from https://fujisilvertech.com/blog/health-safety-benefits-precast-construction/)
+15:41:39	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1157
+15:41:39	Warning: 	File has moved from https://fujisilvertech.com/?p=1157 to https://fujisilvertech.com/blog/health-safety-benefits-precast-construction/
+15:41:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/connecting-remote-india-precast-concrete-solutions/Firefox/ (from https://fujisilvertech.com/blog/connecting-remote-india-precast-concrete-solutions/)
+15:41:39	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1052
+15:41:39	Warning: 	File has moved from https://fujisilvertech.com/?p=1052 to https://fujisilvertech.com/blog/connecting-remote-india-precast-concrete-solutions/
+15:41:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/precast-solutions-railway-infrastructure-india/Firefox/ (from https://fujisilvertech.com/blog/precast-solutions-railway-infrastructure-india/)
+15:41:39	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=1038
+15:41:39	Warning: 	File has moved from https://fujisilvertech.com/?p=1038 to https://fujisilvertech.com/blog/precast-solutions-railway-infrastructure-india/
+15:41:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/economic-advantages-of-precast-concrete-solutions/Firefox/ (from https://fujisilvertech.com/blog/economic-advantages-of-precast-concrete-solutions/)
+15:41:39	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=951
+15:41:39	Warning: 	File has moved from https://fujisilvertech.com/?p=951 to https://fujisilvertech.com/blog/economic-advantages-of-precast-concrete-solutions/
+15:41:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/india-precast-solutions-high-speed-rail/Firefox/ (from https://fujisilvertech.com/blog/india-precast-solutions-high-speed-rail/)
+15:41:39	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=937
+15:41:39	Warning: 	File has moved from https://fujisilvertech.com/?p=937 to https://fujisilvertech.com/blog/india-precast-solutions-high-speed-rail/
+15:41:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/5/i (from https://fujisilvertech.com/blogs/page/5/)
+15:41:39	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/5/Firefox/ (from https://fujisilvertech.com/blogs/page/5/)
+15:41:46	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/precast-now-and-forever/Firefox/ (from https://fujisilvertech.com/blog/precast-now-and-forever/)
+15:41:46	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=761
+15:41:46	Warning: 	File has moved from https://fujisilvertech.com/?p=761 to https://fujisilvertech.com/blog/precast-now-and-forever/
+15:41:46	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/precast-concrete-a-growing-trend-in-the-construction-industry/Firefox/ (from https://fujisilvertech.com/blog/precast-concrete-a-growing-trend-in-the-construction-industry/)
+15:41:46	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=741
+15:41:46	Warning: 	File has moved from https://fujisilvertech.com/?p=741 to https://fujisilvertech.com/blog/precast-concrete-a-growing-trend-in-the-construction-industry/
+15:41:46	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/7/i (from https://fujisilvertech.com/blogs/page/7/)
+15:41:46	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/7/Firefox/ (from https://fujisilvertech.com/blogs/page/7/)
+15:41:58	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/6/i (from https://fujisilvertech.com/blogs/page/6/)
+15:41:58	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blogs/page/6/Firefox/ (from https://fujisilvertech.com/blogs/page/6/)
+15:42:03	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/2/i (from https://fujisilvertech.com/blog_categories/articles/page/2/)
+15:42:03	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/2/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/page/2/)
+15:42:06	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/3/i (from https://fujisilvertech.com/blog_categories/articles/page/3/)
+15:42:06	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/3/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/page/3/)
+15:42:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/8/i (from https://fujisilvertech.com/blog_categories/articles/page/8/)
+15:42:10	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/8/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/page/8/)
+15:42:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/revolutionising-the-cables-and-power-sector-enabling-a-perfectly-connected-future/Firefox/ (from https://fujisilvertech.com/blog/revolutionising-the-cables-and-power-sector-enabling-a-perfectly-connected-future/)
+15:42:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=859
+15:42:15	Warning: 	File has moved from https://fujisilvertech.com/?p=859 to https://fujisilvertech.com/blog/revolutionising-the-cables-and-power-sector-enabling-a-perfectly-connected-future/
+15:42:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/embracing-precast-construction-paving-the-way-for-indias-infrastructure-development/Firefox/ (from https://fujisilvertech.com/blog/embracing-precast-construction-paving-the-way-for-indias-infrastructure-development/)
+15:42:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=766
+15:42:15	Warning: 	File has moved from https://fujisilvertech.com/?p=766 to https://fujisilvertech.com/blog/embracing-precast-construction-paving-the-way-for-indias-infrastructure-development/
+15:42:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/matching-indias-infrastructure-growth-with-economy/Firefox/ (from https://fujisilvertech.com/blog/matching-indias-infrastructure-growth-with-economy/)
+15:42:15	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=888
+15:42:15	Warning: 	File has moved from https://fujisilvertech.com/?p=888 to https://fujisilvertech.com/blog/matching-indias-infrastructure-growth-with-economy/
+15:42:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/2/i (from https://fujisilvertech.com/blog_tags/precast-solutions/page/2/)
+15:42:15	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/2/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-solutions/page/2/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/3/i (from https://fujisilvertech.com/blog_tags/precast-solutions/page/3/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/3/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-solutions/page/3/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/5/i (from https://fujisilvertech.com/blog_tags/precast-solutions/page/5/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/5/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-solutions/page/5/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/reshaping-the-future-of-transportation-with-precast-solutions-for-the-railways/Firefox/ (from https://fujisilvertech.com/blog/reshaping-the-future-of-transportation-with-precast-solutions-for-the-railways/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=875
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=875 to https://fujisilvertech.com/blog/reshaping-the-future-of-transportation-with-precast-solutions-for-the-railways/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/commutes-with-precast-solutions-for-roads-and-bridges/Firefox/ (from https://fujisilvertech.com/blog/commutes-with-precast-solutions-for-roads-and-bridges/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=877
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=877 to https://fujisilvertech.com/blog/commutes-with-precast-solutions-for-roads-and-bridges/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/for-a-greener-tomorrow-fuji-silvertechs-pledge-to-net-zero-emissions-by-2050/Firefox/ (from https://fujisilvertech.com/blog/for-a-greener-tomorrow-fuji-silvertechs-pledge-to-net-zero-emissions-by-2050/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=861
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=861 to https://fujisilvertech.com/blog/for-a-greener-tomorrow-fuji-silvertechs-pledge-to-net-zero-emissions-by-2050/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/sustainability-in-precast-concrete-industries/Firefox/ (from https://fujisilvertech.com/blog/sustainability-in-precast-concrete-industries/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=886
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=886 to https://fujisilvertech.com/blog/sustainability-in-precast-concrete-industries/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/setting-industry-milestones-with-the-first-verified-epd-for-precast-solutions/Firefox/ (from https://fujisilvertech.com/blog/setting-industry-milestones-with-the-first-verified-epd-for-precast-solutions/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=892
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=892 to https://fujisilvertech.com/blog/setting-industry-milestones-with-the-first-verified-epd-for-precast-solutions/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/facilitating-a-habitable-and-hygienic-future/Firefox/ (from https://fujisilvertech.com/blog/facilitating-a-habitable-and-hygienic-future/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=879
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=879 to https://fujisilvertech.com/blog/facilitating-a-habitable-and-hygienic-future/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/precast-solutions-for-indias-transportation-infrastructure/Firefox/ (from https://fujisilvertech.com/blog/precast-solutions-for-indias-transportation-infrastructure/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=918
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=918 to https://fujisilvertech.com/blog/precast-solutions-for-indias-transportation-infrastructure/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/elevating-economic-efficiency-the-transformative-power-of-precast-solutions/Firefox/ (from https://fujisilvertech.com/blog/elevating-economic-efficiency-the-transformative-power-of-precast-solutions/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=912
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=912 to https://fujisilvertech.com/blog/elevating-economic-efficiency-the-transformative-power-of-precast-solutions/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/smart-cities-and-precast-solutions-a-perfect-match-for-the-future/Firefox/ (from https://fujisilvertech.com/blog/smart-cities-and-precast-solutions-a-perfect-match-for-the-future/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=907
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=907 to https://fujisilvertech.com/blog/smart-cities-and-precast-solutions-a-perfect-match-for-the-future/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/when-1-4-billion-of-the-cricket-crazy-nations-eyes-are-on-you-the-game-must-go-on/Firefox/ (from https://fujisilvertech.com/blog/when-1-4-billion-of-the-cricket-crazy-nations-eyes-are-on-you-the-game-must-go-on/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=899
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=899 to https://fujisilvertech.com/blog/when-1-4-billion-of-the-cricket-crazy-nations-eyes-are-on-you-the-game-must-go-on/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/driven-by-the-passion-for-nation-building/Firefox/ (from https://fujisilvertech.com/blog/driven-by-the-passion-for-nation-building/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=864
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=864 to https://fujisilvertech.com/blog/driven-by-the-passion-for-nation-building/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/fuji-silvertech-standing-out-as-a-premier-precast-solutions-provider/Firefox/ (from https://fujisilvertech.com/blog/fuji-silvertech-standing-out-as-a-premier-precast-solutions-provider/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=894
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=894 to https://fujisilvertech.com/blog/fuji-silvertech-standing-out-as-a-premier-precast-solutions-provider/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/precast-solutions-a-universal-advantage-for-construction-projects-of-all-sizes/Firefox/ (from https://fujisilvertech.com/blog/precast-solutions-a-universal-advantage-for-construction-projects-of-all-sizes/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=890
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=890 to https://fujisilvertech.com/blog/precast-solutions-a-universal-advantage-for-construction-projects-of-all-sizes/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/bringing-in-the-industrial-revolution/Firefox/ (from https://fujisilvertech.com/blog/bringing-in-the-industrial-revolution/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=866
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=866 to https://fujisilvertech.com/blog/bringing-in-the-industrial-revolution/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/transforming-indian-infrastructure-unveiling-the-power-of-high-quality-precast-solutions/Firefox/ (from https://fujisilvertech.com/blog/transforming-indian-infrastructure-unveiling-the-power-of-high-quality-precast-solutions/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=857
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=857 to https://fujisilvertech.com/blog/transforming-indian-infrastructure-unveiling-the-power-of-high-quality-precast-solutions/
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/u-shape-drain-presentation/
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/u-shape-drain-presentation/ to /u-shape-drains/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/precast-vs-conventional-a-no-brainer/Firefox/ (from https://fujisilvertech.com/blog/precast-vs-conventional-a-no-brainer/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=764
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=764 to https://fujisilvertech.com/blog/precast-vs-conventional-a-no-brainer/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog/elevating-excellence-quality-at-indias-premier-precast-solutions-provider/Firefox/ (from https://fujisilvertech.com/blog/elevating-excellence-quality-at-indias-premier-precast-solutions-provider/)
+15:42:18	Warning: 	Moved Permanently for https://fujisilvertech.com/?p=881
+15:42:18	Warning: 	File has moved from https://fujisilvertech.com/?p=881 to https://fujisilvertech.com/blog/elevating-excellence-quality-at-indias-premier-precast-solutions-provider/
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/4/i (from https://fujisilvertech.com/blog_categories/articles/page/4/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/4/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/page/4/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/5/i (from https://fujisilvertech.com/blog_categories/articles/page/5/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/5/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/page/5/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/7/i (from https://fujisilvertech.com/blog_categories/articles/page/7/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/7/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/page/7/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/6/i (from https://fujisilvertech.com/blog_categories/articles/page/6/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_categories/articles/page/6/Firefox/ (from https://fujisilvertech.com/blog_categories/articles/page/6/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/4/i (from https://fujisilvertech.com/blog_tags/precast-solutions/page/4/)
+15:42:18	Error: 	"Not Found" (404) at link https://fujisilvertech.com/blog_tags/precast-solutions/page/4/Firefox/ (from https://fujisilvertech.com/blog_tags/precast-solutions/page/4/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 3 seconds : 1763 links scanned, 1467 files written (284383774 bytes overall) [209895273 bytes received at 268065 bytes/sec], 118767752 bytes transferred using HTTP compression in 1069 files, ratio 26%, 66.3 requests per connection
+(189 errors, 212 warnings, 0 messages)
